@@ -1,8 +1,4 @@
-Perfecto, entonces te preparo el README.md pensando específicamente para que se vea bien en GitHub: claro, ordenado, con secciones destacadas y formato correcto.
-Aquí te va la versión lista para copiar directamente:
 
-
----
 
 Image Reconstructor
 
@@ -112,9 +108,3 @@ El sistema permite una tolerancia del 5% en la validación de los datos enmascar
 
 El proyecto no utiliza std::vector, std::string ni otras clases de STL.
 
-
-
----
-
-¿Quieres también que te prepare un ejemplo de la estructura de carpetas (tree) que podrías subir a GitHub junto con el README?
-Quedaría todavía más profesional. ¿Te interesa?

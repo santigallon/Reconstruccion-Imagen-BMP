@@ -108,3 +108,5 @@ El sistema permite una tolerancia del 5% en la validación de los datos enmascar
 
 El proyecto no utiliza std::vector, std::string ni otras clases de STL.
 
+
+enlace a un vídeo en Youtube: https://youtu.be/zdAg0A6uYLQ
